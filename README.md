@@ -1,3 +1,3 @@
 # hello-world
-Primer repositorio
-Con modificaciones
+Primer repositorio.
+Con modificaciones.
